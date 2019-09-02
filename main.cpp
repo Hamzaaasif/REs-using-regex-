@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
   string input; 
-  string idf="-[[:alnum:]]+|[a-zA-Z][[:alnum:]]+";
+  string idf="_[[:alnum:]]+|[a-zA-Z][[:alnum:]]+";
   string intconst="[+|-][[:digit:]]+|[0-9]+";
   string floatconst="[+|-][0-9]*\\.[0-9]+|[0-9]*\\.[0-9]+";
 
