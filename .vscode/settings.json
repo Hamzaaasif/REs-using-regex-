@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "Batch_170B": "sql",
+    "ostream": "cpp"
+  }
+}
